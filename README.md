@@ -1,2 +1,2 @@
 # academy-management
-A sports academy management made using C++ 
+A sports academy management system made using C++ 
